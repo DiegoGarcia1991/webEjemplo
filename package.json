@@ -1,0 +1,11 @@
+{
+  "name": "webejemplo",
+  "version": "1.0.0",
+  "description": "Proyectoejemplo",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DiegoG",
+  "license": "ISC"
+}
