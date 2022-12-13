@@ -1,6 +1,7 @@
 
 import './App.css';
 import Mensaje from'./Mensaje.js'
+import Mensaje2  from './probandoIgnore';
 
 
 const Description =()=>{
@@ -28,6 +29,10 @@ const  App = ()=> {
        <Mensaje color='green'  messaje='lets go'/>
       </div>
      <Description/>
+     <div>
+      <Mensaje2/>
+     </div>
+     
    
     </div>
   );
